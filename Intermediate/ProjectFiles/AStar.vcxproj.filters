@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AStar.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FA1342D2-99A8-4191-B647-2C2B6C6956B0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AStar.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AStarEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CCBEC9AD-FF74-4754-B6F3-3E2E48BE67EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AStar">
+      <UniqueIdentifier>{214B95C6-C0FC-46A1-8B13-21A7F6017AF9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AStar\AStar.Build.cs">
+      <Filter>Source\AStar</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AStar\AStar.cpp">
+      <Filter>Source\AStar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AStar\AStar.h">
+      <Filter>Source\AStar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AStar\AStarCharacter.cpp">
+      <Filter>Source\AStar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AStar\AStarCharacter.h">
+      <Filter>Source\AStar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AStar\AStarGameMode.cpp">
+      <Filter>Source\AStar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AStar\AStarGameMode.h">
+      <Filter>Source\AStar</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

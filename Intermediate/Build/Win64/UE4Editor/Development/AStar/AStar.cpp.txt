@@ -1,0 +1,2 @@
+D:\GitHub\Non Github\AStar\Intermediate\Build\Win64\UE4Editor\Development\AStar\Definitions.AStar.h
+D:\GitHub\Non Github\AStar\Source\AStar\AStar.h

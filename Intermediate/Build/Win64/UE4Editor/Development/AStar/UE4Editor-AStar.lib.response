@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AStar.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitHub\Non Github\AStar\Intermediate\Build\Win64\AStarEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\GitHub\Non Github\AStar\Intermediate\Build\Win64\UE4Editor\Development\AStar\AStar.cpp.obj"
+"D:\GitHub\Non Github\AStar\Intermediate\Build\Win64\UE4Editor\Development\AStar\AStarCharacter.cpp.obj"
+"D:\GitHub\Non Github\AStar\Intermediate\Build\Win64\UE4Editor\Development\AStar\AStarGameMode.cpp.obj"
+"D:\GitHub\Non Github\AStar\Intermediate\Build\Win64\UE4Editor\Development\AStar\AStar.init.gen.cpp.obj"
+"D:\GitHub\Non Github\AStar\Intermediate\Build\Win64\UE4Editor\Development\AStar\AStarCharacter.gen.cpp.obj"
+"D:\GitHub\Non Github\AStar\Intermediate\Build\Win64\UE4Editor\Development\AStar\AStarGameMode.gen.cpp.obj"
+"D:\GitHub\Non Github\AStar\Intermediate\Build\Win64\UE4Editor\Development\AStar\Default.rc2.res"
+/OUT:"D:\GitHub\Non Github\AStar\Intermediate\Build\Win64\UE4Editor\Development\AStar\UE4Editor-AStar.lib"
+/INCLUDE:IMPLEMENT_MODULE_AStar

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AStar",
+			"Path": "D:\\GitHub\\Non Github\\AStar\\Source\\AStar.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AStarEditor",
+			"Path": "D:\\GitHub\\Non Github\\AStar\\Source\\AStarEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
